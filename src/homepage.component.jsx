@@ -9,40 +9,24 @@ const Homepage = () => (
          <span className="subtitle">SHOP NOW</span>
         </div>
        </div>
-      </div>
-    </div>
-    <div className="shop-container">
-    <div className="menu-directory">
      <div className="menu-item">
       <div className="content"> 
        <h1 className="title">JACKETS</h1>
         <span className="subtitle">SHOP NOW</span>
        </div>
       </div>
-     </div>
-   </div>
-   <div className="shop-container">
-   <div className="menu-directory">
     <div className="menu-item">
      <div className="content"> 
       <h1 className="title">SNEAKERS</h1>
        <span className="subtitle">SHOP NOW</span>
       </div>
      </div>
-    </div>
-  </div>
-  <div className="shop-container">
-  <div className="menu-directory">
    <div className="menu-item">
     <div className="content"> 
      <h1 className="title">MENS</h1>
       <span className="subtitle">SHOP NOW</span>
      </div>
     </div>
-   </div>
- </div>
- <div className="shop-container">
- <div className="menu-directory">
   <div className="menu-item">
    <div className="content"> 
     <h1 className="title">WOMENS</h1>
@@ -50,7 +34,7 @@ const Homepage = () => (
     </div>
    </div>
   </div>
-</div>
+ </div>
 );
 
 export default Homepage;
