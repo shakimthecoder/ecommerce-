@@ -5,7 +5,7 @@ const Homepage = () => (
      <div className="menu-directory">
       <div className="menu-item">
        <div className="content"> 
-        <h1></h1>
+        <h1 className="title">HATS</h1>
         </div>
        </div>
       </div>
